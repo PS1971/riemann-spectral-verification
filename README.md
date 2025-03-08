@@ -1,6 +1,6 @@
 # Numerical Verification of the Spectral Approach to the Riemann Hypothesis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PS1971/TUO_REPOSITORY_NAME/blob/main/riemann-spectral-verification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PS1971/ PS1971/riemann-spectral-verification/blob/main/Spectral_Verification2.ipynb)
 
 **Authors:** Samuel Pedrielli
 
@@ -18,7 +18,7 @@ This project does *not* claim to prove the Riemann Hypothesis.  Instead, it demo
 
 ## Repository Structure
 
-*   **`riemann_verification.ipynb`:**  The Jupyter Notebook containing the Python code for the numerical verification.  This is the main file.
+*   **`Spectral_Verification2.ipynb`:**  The Jupyter Notebook containing the Python code for the numerical verification.  This is the main file.
 *   **`requirements.txt`:**  A list of the Python libraries required to run the notebook.
 
 ## Instructions
