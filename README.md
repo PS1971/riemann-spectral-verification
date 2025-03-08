@@ -1,6 +1,6 @@
 # Numerical Verification of the Spectral Approach to the Riemann Hypothesis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PS1971/ PS1971/riemann-spectral-verification/blob/main/Spectral_Verification2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PS1971/riemann-spectral-verification/blob/main/Spectral_Verification2.ipynb)
 
 **Authors:** Samuel Pedrielli
 
@@ -32,8 +32,8 @@ Alternatively, you can run the notebook locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/PS1971/TUO_REPOSITORY_NAME.git](https://www.google.com/search?q=https://github.com/TUO_USERNAME/TUO_REPOSITORY_NAME.git)
-    cd TUO_REPOSITORY_NAME
+    git clone [https://github.com/PS1971/riemann-spectral-verification](https://github.com/PS1971/riemann-spectral-verification)
+    cd riemann-spectral-verification
     ```
 2.  **Install dependencies:**
     ```bash
@@ -41,7 +41,7 @@ Alternatively, you can run the notebook locally:
     ```
 3.  **Run the notebook:**
     ```bash
-    jupyter notebook riemann_verification.ipynb
+    jupyter notebook Spectral_Verification2.ipynb
     ```
     (Or use JupyterLab: `jupyter lab`)
 
@@ -68,8 +68,7 @@ The numerical results presented in this repository strongly support the connecti
 ## Citation
 
 If you use this code or the results in your research, please cite it as follows:
-
-[Pedrielli], [Samuel], Pedrielli, S. (2024). Numerical Verification of the Spectral Approach to the Riemann Hypothesis [Jupyter Notebook]. GitHub repository. [Link al tuo repository GitHub]
+Pedrielli, Samuel, Pedrielli, S. (2024). Numerical Verification of the Spectral Approach to the Riemann Hypothesis [Jupyter Notebook]. GitHub repository. https://github.com/PS1971/riemann-spectral-verification
 
 
 ## License
